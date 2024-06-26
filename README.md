@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more on Full Stack Web-development**
 
-- 📝 I regularly write weblogs on [https://www.annanyasah.com/journal.html](https://www.annanyasah.com/journal.html)
+- 📝 I regularly write weblogs on [https://www.annanyasah.com/blog.html](https://www.annanyasah.com/blog.html)
 
 - ⚡ The Oops! fact: **I wanted to be an astronaut. Then, I wanted to be a painter. Afterwards, I decided just to be a good Human being (The clueless 90s kids i tell you🤦‍♀️). Finally I landed on being a doctor.😏 And here I am an engineer. Oops? 😂🤐**
 
